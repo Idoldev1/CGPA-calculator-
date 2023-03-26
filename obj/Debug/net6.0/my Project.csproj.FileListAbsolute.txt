@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\my Project\bin\Debug\net6.0\my Project.exe
+C:\Users\Hp\Desktop\my Project\bin\Debug\net6.0\my Project.deps.json
+C:\Users\Hp\Desktop\my Project\bin\Debug\net6.0\my Project.runtimeconfig.json
+C:\Users\Hp\Desktop\my Project\bin\Debug\net6.0\my Project.dll
+C:\Users\Hp\Desktop\my Project\bin\Debug\net6.0\my Project.pdb
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.AssemblyInfo.cs
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.dll
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\refint\my Project.dll
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.pdb
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\my Project.genruntimeconfig.cache
+C:\Users\Hp\Desktop\my Project\obj\Debug\net6.0\ref\my Project.dll
